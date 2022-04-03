@@ -1,0 +1,33 @@
+.date{
+  border:none;
+  background:none;
+  text-align:center;
+  width:230px;
+  font-size:15px
+}
+.time{
+  border:none;
+  background:none;
+  text-align:center;
+  width:230px;
+	color:black;
+  font-size:25px
+}
+
+p{
+  color: white;
+}
+
+body{
+  background-color: black;
+  padding: 20px;
+}
+
+button{
+  height: 40px;
+}
+
+
+
+.map{width:550px;margin-top:90px;margin-left:3%;}
+
