@@ -3,14 +3,15 @@
   background:none;
   text-align:center;
   width:230px;
+  font-weight: bold;
   font-size:15px
 }
 .time{
   border:none;
   background:none;
+  font-weight: bold;
   text-align:center;
   width:230px;
-	color:black;
   font-size:25px
 }
 
@@ -29,5 +30,5 @@ button{
 
 
 
-.map{width:550px;margin-top:90px;margin-left:3%;}
+.map{width:550px;margin-top:90px;margin-botton:"30px";margin-left:3%;}
 
