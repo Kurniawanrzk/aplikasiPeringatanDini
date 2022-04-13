@@ -19,14 +19,14 @@
 	</li>
   </ul>
   <div class="tab-content" id="myTabContent">
-	<div class="tab-pane fade show active mt-4" id="form" role="tabpanel" aria-labelledby="form-tab">
+	<div class="tab-pane fade show active mt-4" id="Forms" role="tabpanel" aria-labelledby="form-tab">
 		<!-- BAGIAN FORM -->
 		<center>
 		<table class="">
 		<tr>
 		<td>
 			<p>antangkalang</p>
-			<select  class="form-select" onchange="change('antangkalang',this)"  id="peringatandini">
+			<select  class="form-select" onselect="cacheInput(this)" onchange="change('antangkalang',this)"  id="peringatandini">
 			<option value="asset/img/printmap/antangkalang1.png">WILAYAH PERINGATAN DINI</option>
 			<option value="asset/img/printmap/antangkalang2.png">WILAYAH POTENSI MELUAS</option>
 			<option value="asset/img/printmap/antangkalang.png" selected>WILAYAH TIDAK TERDAMPAK</option>
