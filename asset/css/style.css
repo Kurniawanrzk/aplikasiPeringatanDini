@@ -1,3 +1,11 @@
+@font-face {
+    font-family: berlin;
+    src: url("../../BRLNSR.TTF");
+}
+
+*{
+font-family:berlin;
+}
 .date{
   border:none;
   background:none;
