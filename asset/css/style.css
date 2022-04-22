@@ -2,17 +2,20 @@
   border:none;
   background:none;
   text-align:center;
-  width:230px;
+  width:213px;
   font-weight: bold;
-  font-size:15px
+  font-size:16px
 }
 .time{
   border:none;
   background:none;
   font-weight: bold;
   text-align:center;
-  width:230px;
-  font-size:25px
+  color: black;
+  width: 310px;
+  font-size:25px;
+
+  
 }
 
 p{
