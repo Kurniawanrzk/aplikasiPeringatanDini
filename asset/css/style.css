@@ -41,5 +41,4 @@ button{
 
 
 
-.map{width:500px;margin-top:110px;margin-left:4%;}
-
+.map{width:500px;transform: translate(4%,110px);}
